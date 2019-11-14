@@ -1,7 +1,9 @@
 
 # Audio y Tecnología
 
-![portada](https://github.com/EmilioOcelotl/audioTecnologiaCCD/blob/master/img/altamisa2.png)
+![altamisa](https://github.com/EmilioOcelotl/audioTecnologiaCCD/blob/master/img/altamisa2.png)
+
+Iracema de Andrade en la ejecución de Altamisa. CMM del Centro Nacional de las Artes. Ciudad de México. 
 
 ## Introducción
 
@@ -27,15 +29,36 @@ Tuvo un punto de partida y un punto final. Hablaré de este proceso y de sus res
 
 - Las investigaciones y artı́culos escritos por participantes del proceso distintos al autor de este texto.
 
-## Primera Parte
+## Primera Parte: Experiencia y descripción del proceso
 
 - Motivaciones y antecedentes
 
 - La investigación y sus estrategias
 
-- I Música Electroacústica
+- Música Electroacústica
 
 - El papel de la computadora y el código
 
 - Altamisa y Leviathan
 
+![RGGTRN](https://github.com/EmilioOcelotl/audioTecnologiaCCD/blob/master/img/RGGTRNccrma.jpg)
+
+RGGTRN en CCRMA, Stanford, EUA. 
+
+Uno de los antecedentes de esta investigación es RGGTRN, colectivo de música por computadora.
+
+De izquierda a derecha: Luis N. Del Angel, Marianne Teixido, Emilio Ocelotl y Arianne Rodríguez. 
+
+![RGGTRN](https://github.com/EmilioOcelotl/audioTecnologiaCCD/blob/master/img/medallo.jpg)
+
+RGGTRN en Parque Explora, Medellín, Colombia. 
+
+### Bucles en la producción artística y la investigación
+
+![RGGTRN](https://github.com/EmilioOcelotl/audioTecnologiaCCD/blob/master/img/bucle1.png)
+
+Tomado de: López-Cano, R. y San Cristóbal Opazo, U. Investigación artı́stica en música. Problemas, métodos, experiencias y modelos. 2014
+
+![RGGTRN](https://github.com/EmilioOcelotl/audioTecnologiaCCD/blob/master/img/bucle2.png)
+
+Tomado de: Josh Nimoy, C++ Language Basics. Consultado en: http://openframeworks.cc/ofBook/chapters/cplusplus_basics.html
