@@ -121,10 +121,14 @@ Alejandro Brianza interpretando Leviathan. Teatro de los Fundadores. Medellín, 
 
 - La imagen. 
 
+- Esolang. 
+
 - Portabilidad de los sistemas y el uso de sistemas de control de versiones como git.
 
 - Comunicación y delimitación de piezas colaborativas.
 
 - Proyectos y pensamientos que derivaron de este proyecto: PiranhaLab y la frontera entre prácticas.
 
-- La comunidad. 
+- Comunidades.
+
+
