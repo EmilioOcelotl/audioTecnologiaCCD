@@ -108,3 +108,23 @@ Iracema de Andrade ejecutando Altamisa. CMM del Centro Nacional de las Artes. Ci
 ![levAle](https://github.com/EmilioOcelotl/audioTecnologiaCCD/blob/master/img/levAle2.jpg)
 
 Alejandro Brianza interpretando Leviathan. Teatro de los Fundadores. Medellín, Colombia. 
+
+### Conclusiones
+
+- Tecnologı́a Musical: Conceptos y estrategias de investigación
+
+- Implicaciones ideológicas de los artefactos y sus posibles estudios.
+
+- Inmersión, interactividad y relación audio/visual.
+
+- Computadora y trabajo.
+
+- La imagen. 
+
+- Portabilidad de los sistemas y el uso de sistemas de control de versiones como git.
+
+- Comunicación y delimitación de piezas colaborativas.
+
+- Proyectos y pensamientos que derivaron de este proyecto: PiranhaLab y la frontera entre prácticas.
+
+- La comunidad. 
